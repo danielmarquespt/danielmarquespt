@@ -5,7 +5,7 @@
 
 🔭 I’m currently designing cool tools for developers. Also building my personal website
 
-🌱 Learning Git and JavaScript while trying to build MacOS apps. I know, I like to try different things.
+🌱 Learning Git and JavaScript.
 
 📫 For now you can reach me via LinkedIn via the same username: https://www.linkedin.com/in/danielmarquespt/
 
